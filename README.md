@@ -28,3 +28,5 @@ Hráč bude v průběhu celé hry získávat víc a víc schopností, což mu bu
    * možná by hráč mohl svými akcemi rozhodnout, jestli se z něj stane
      ochránce slabších a strážce morálních hodnot, nebo cynický a bezcitný
      genius, který má příliš mnoho moci (téma na brainstorming?)
+
+<img src="https://raw.githubusercontent.com/m93a/mist-draft/master/hrdina.jpg" width="200"> <img src="https://raw.githubusercontent.com/m93a/mist-draft/master/hrdina_beh.jpg" width="200">
